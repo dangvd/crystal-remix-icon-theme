@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Crystal Remix
 Comment=A remixed Crystal icon theme for KDE Plasma 5
-Directories=128x128/actions,128x128/apps,128x128/categories,128x128/devices,128x128/mimetypes,128x128/places
+Directories=128x128/actions,128x128/apps,128x128/categories,128x128/devices,128x128/mimetypes,128x128/places,48x48/mimetypes,32x32/actions
 
 DisplayDepth=32
 Example=folder
@@ -23,3 +23,9 @@ Size=128
 
 [128x128/places]
 Size=128
+
+[48x48/mimetypes]
+Size=48
+
+[32x32/actions]
+Size=32
