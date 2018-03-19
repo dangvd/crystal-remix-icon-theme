@@ -8,24 +8,32 @@ Example=folder
 
 [128x128/actions]
 Size=128
+Context=Actions
 
 [128x128/apps]
 Size=128
+Context=Applications
 
 [128x128/categories]
 Size=128
+Context=Categories
 
 [128x128/devices]
 Size=128
+Context=Devices
 
 [128x128/mimetypes]
 Size=128
+Context=MimeTypes
 
 [128x128/places]
 Size=128
+Context=Places
 
 [48x48/mimetypes]
 Size=48
+Context=MimeTypes
 
 [32x32/actions]
 Size=32
+Context=Actions
