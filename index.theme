@@ -5,6 +5,20 @@ Directories=128x128/actions,128x128/apps,128x128/categories,128x128/devices,128x
 
 DisplayDepth=32
 Example=folder
+FollowsColorScheme=true
+
+DesktopDefault=48
+DesktopSizes=16,22,32,48,64,128
+ToolbarDefault=22
+ToolbarSizes=16,22,32,48
+MainToolbarDefault=22
+MainToolbarSizes=16,22,32,48
+SmallDefault=22
+SmallSizes=16,22,32,48
+PanelDefault=32
+PanelSizes=16,22,32,48,64,128
+DialogDefault=32
+DialogSizes=16,22,32,48,64,128
 
 [128x128/actions]
 Size=128
