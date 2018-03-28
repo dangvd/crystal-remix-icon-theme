@@ -17,7 +17,7 @@ SmallDefault=22
 SmallSizes=16,22,32,48
 PanelDefault=32
 PanelSizes=16,22,32,48,64,128
-DialogDefault=32
+DialogDefault=48
 DialogSizes=16,22,32,48,64,128
 
 [128x128/actions]
