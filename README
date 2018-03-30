@@ -1,15 +1,20 @@
-This is an attempt to get a working Crystal icon theme for KDE Plasma 5, by combining/mixing Crystal and Crystal Clear icon sets. Personally, I think Crystal is the best ever icon theme for the Linux desktop, and I'd like to be able to continue using it.
+This is an attempt to get a working Crystal icon theme for KDE Plasma 5, by combining/mixing different versions of the Crystal icon theme. Personally, I think Crystal is the best ever icon theme for the Linux desktop, and I'd like to be able to continue using it.
 
-Original author: Everaldo Coelho.
+Original author: Everaldo Coelho (https://en.wikipedia.org/wiki/Everaldo_Coelho).
 
-License: The original Crystal and Crystal Clear icon sets were licensed under the LGPL.
+License: The original Crystal icon sets were licensed under the LGPL.
 
 ---
 
 References:
 
-Crystal icon set:
+The original links are no longer working, but the different Crystal icon sets can still be found online, for example:
+
+Crystal Project icon set:
 http://www.softicons.com/system-icons/crystal-project-icons-by-everaldo-coelho
+
+Crystal SVG icon set:
+https://store.kde.org/content/show.php?content=138368
 
 Crystal Clear icon set:
 http://www.softicons.com/system-icons/crystal-clear-icons-by-everaldo-coelho
