@@ -5,7 +5,11 @@ Adapted for KDE Plasma 5 by: Viet Dang (dangvd at gmail.com).
 
 License: The original Crystal icon sets were licensed under the LGPL.
 
-To install, copy the Crystal Remix folder to the system's icon themes folder (e.g. /usr/share/icons).
+Crystal Remix is also available on the KDE Store at: https://store.kde.org/p/1226130/
+
+To install:
+- Either install through KDE Plasma (System Settings -> Icons -> Icons -> Get New Icons -> Search for Crystal Remix).
+- Or, if install from source, copy the Crystal Remix folder to the system's icon themes folder (e.g. /usr/share/icons). Note that you might have to refresh KDE Plasma 5 icon cache (e.g. running '$ rm ~/.cache/icon-cache.kcache') when you switch to using the new icon theme for the applications to refresh their icons.
 
 ---
 
