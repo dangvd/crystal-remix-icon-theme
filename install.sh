@@ -9,3 +9,5 @@ if [ "$USER" = "root"  ]; then
 fi
 
 cp -av . ${INSTALL_PATH}
+
+which gtk-update-icon-cache && gtk-update-icon-cache -q ${INSTALL_PATH}
