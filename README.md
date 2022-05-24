@@ -22,8 +22,8 @@ The original Crystal icon sets were licensed under the LGPL.
 ## References:
 
 The original posts from Everaldo are below, although the download links are no longer working:  
-https://store.kde.org/content/show.php?content=8341
-https://store.kde.org/content/show.php?content=25668
+https://store.kde.org/content/show.php?content=8341  
+https://store.kde.org/content/show.php?content=25668  
 https://store.kde.org/content/show.php?content=60475
 
 However, the different Crystal icon sets can still be found online, for example:
