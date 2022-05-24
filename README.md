@@ -14,8 +14,11 @@ Adapted for modern Linux desktop environments by: Viet Dang (dangvd at gmail.com
 The original Crystal icon sets were licensed under the LGPL.
 
 ## To install:
-- Unzip and copy the Crystal Remix directory to an icon theme directory (e.g. /usr/share/icons/ or $HOME/.local/share/icons/) then select Crystal Remix in the icon theme section of the System Settings / Control Panel.
-- Alternatively, if your desktop environment supports it, you can also download and install directly from the icon theme section of the System Settings / Control Panel.
+* Run the install.sh script from the Crystal Remix directory
+```
+./install.sh
+```
+* Go to the icon theme section of the System Settings / Control Panel / Tweaks, and select Crystal Remix
 
 ---
 
