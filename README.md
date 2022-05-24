@@ -1,17 +1,25 @@
+![Crystal Remix icon theme](https://github.com/dangvd/crystal-remix-icon-theme/raw/main/crystal-remix-icon-theme.jpg)
+
+# Crystal Remix icon theme
+
+[Releases](https://github.com/dangvd/crystal-remix-icon-theme/releases)
+
 Crystal Remix is a Crystal icon theme for modern Linux desktop environments, created by combining/mixing different versions of the Crystal icon theme (that were originally created for KDE 3 desktop). Personally, I think Crystal is the best ever icon theme for the Linux desktop, and I'd like to be able to continue using it.
 
 Original author: Everaldo Coelho (https://en.wikipedia.org/wiki/Everaldo_Coelho).
 Adapted for modern Linux desktop environments by: Viet Dang (dangvd at gmail.com).
 
-License: The original Crystal icon sets were licensed under the LGPL.
+## License
 
-To install:
+The original Crystal icon sets were licensed under the LGPL.
+
+## To install:
 - Unzip and copy the Crystal Remix directory to an icon theme directory (e.g. /usr/share/icons/ or $HOME/.local/share/icons/) then select Crystal Remix in the icon theme section of the System Settings / Control Panel.
 - Alternatively, if your desktop environment supports it, you can also download and install directly from the icon theme section of the System Settings / Control Panel.
 
 ---
 
-References:
+## References:
 
 The original posts from Everaldo are below, although the download links are no longer working:
 https://store.kde.org/content/show.php?content=8341
