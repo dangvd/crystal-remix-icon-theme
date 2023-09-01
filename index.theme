@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Crystal Remix
 Comment=A remixed Crystal icon theme for modern Linux desktop environments
-Directories=128x128/actions,128x128/apps,128x128/categories,128x128/devices,128x128/emotes,128x128/mimetypes,128x128/places,128x128/status,48x48/actions,48x48/apps,48x48/mimetypes,48x48/places,32x32/actions,32x32/mimetypes,32x32/status
+Directories=128x128/actions,128x128/apps,128x128/categories,128x128/devices,128x128/emotes,128x128/mimetypes,128x128/places,128x128/status,48x48/actions,48x48/apps,48x48/mimetypes,48x48/places,32x32/actions,32x32/apps,32x32/categories,32x32/mimetypes,32x32/status
 
 DisplayDepth=32
 Inherits=hicolor
@@ -72,6 +72,14 @@ Context=Places
 [32x32/actions]
 Size=32
 Context=Actions
+
+[32x32/apps]
+Size=32
+Context=Applications
+
+[32x32/categories]
+Size=32
+Context=Categories
 
 [32x32/mimetypes]
 Size=32
