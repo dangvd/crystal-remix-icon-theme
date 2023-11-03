@@ -16,6 +16,7 @@ The original Crystal icon sets were licensed under the LGPL.
 ## To install:
 * Run the install.sh script from the Crystal Remix directory
 ```
+chmod +x ./install.sh
 ./install.sh
 ```
 * Go to the icon theme section of the System Settings / Control Panel / Tweaks, and select Crystal Remix
