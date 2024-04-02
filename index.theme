@@ -51,7 +51,7 @@ Context=Places
 
 [128x128/preferences]
 Size=128
-Context=Preferences
+Context=Applications
 
 [128x128/status]
 Size=128
