@@ -4,7 +4,7 @@
 
 [Releases](https://github.com/dangvd/crystal-remix-icon-theme/releases)
 
-Crystal Remix is a Crystal icon theme for modern Linux desktop environments, created from KDE 3's Crystal Project icon theme with a few additions from KDE 3's Crystal Clear icon theme. Personally, I think Crystal is the best ever icon theme for the Linux desktop, and I'd like to be able to continue using it.
+Crystal Remix is a Crystal icon theme for modern Linux desktop environments, created from KDE 3's Crystal Project and Crystal Clear icon themes (mainly Crystal Project). Personally, I think Crystal is the best ever icon theme for the Linux desktop, and I'd like to be able to continue using it.
 
 Original author: Everaldo Coelho (https://en.wikipedia.org/wiki/Everaldo_Coelho).  
 Adapted for modern Linux desktop environments by: Viet Dang (dangvd at gmail.com).
